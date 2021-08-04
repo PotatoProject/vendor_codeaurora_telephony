@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "525fa6ba_2c77bfdf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000193
+      },
+      "writtenOn": "2021-08-04T14:42:41Z",
+      "side": 1,
+      "message": "Again, would be great if we could merge upstream. Available at https://source.codeaurora.org/quic/la/platform/vendor/codeaurora/telephony/commit/?h\u003dLA.QSSI.11.0.r1-12700.01-qssi.0\u0026id\u003d56838108c6acfbd224d8594ad04f9a9c27217c38",
+      "revId": "b7a05d00c1fd9aeee01418385b86e8c00de44277",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554"
+    }
+  ]
+}
