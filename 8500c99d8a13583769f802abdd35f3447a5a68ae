@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb4f6991_1de0a394",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000193
+      },
+      "writtenOn": "2021-08-04T14:41:55Z",
+      "side": 1,
+      "message": "I would prefer if we could merge upstream instead. The commit exists here on the latest QSSI tag.\nhttps://source.codeaurora.org/quic/la/platform/vendor/codeaurora/telephony/commit/?h\u003dLA.QSSI.11.0.r1-12700.01-qssi.0\u0026id\u003dbac7cebe705bdc1f7a639be15ab0979eda03d2d4",
+      "revId": "8500c99d8a13583769f802abdd35f3447a5a68ae",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554"
+    }
+  ]
+}
